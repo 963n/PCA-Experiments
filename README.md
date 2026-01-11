@@ -114,9 +114,7 @@ Open:
 The Arabic letters dataset files may be **too large to include directly in the repository** (or may fail to upload due to size limits).
 If you want the exact dataset used in this notebook, feel free to **contact me on LinkedIn** and I can share it.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact_Me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=fff)](#)
-
-> Replace `#` with your LinkedIn profile link.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact_Me-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=fff)](https://www.linkedin.com/in/mohammed-a-3913a5378/)
 
 ---
 
